@@ -1,0 +1,193 @@
+会议时间：2015/3/27
+会议地点：学活三层
+会议时长：14:30-18:00
+---------------------------------
+
+会议目标：
+
+1.确定最终项目（20min）
+
+2.PO访谈，讨论并完成
+
+Product Vison/Goal,
+  product name
+  product description(a sentence, subheadline of the product name)
+  main users
+  realease schedule(dates,regularity,scope)
+  competitors(and how we can be better)
+  similar products to get more ideas from
+  sources of the revenue and when the PO actually is going to start getting income
+
+
+Roadmap，
+  each version of launch date
+  top 3-5 features
+  (Lec1_Quality Assurance.pdf)
+
+
+user story,
+  as a ...., I can ..., so that ....
+
+
+--制定product backlog，（90min）
+
+
+3.(QP)DoD/DoR/
+
+
+(QC)checklist/
+
+
+(scrum)Sprint定义的分配完成（10分钟）
+
+
+paperwork on wk3 to submit:
+1.quality plan
+  product vision/ quality goal
+  roadmap
+  DoD DOR
+2.quality control - checklist
+3.Proposed KPI(finalized on wk05)
+  key performance indicators
+
+------------------------------------------
+
+会议记录：
+
+1.确定最终项目（90分钟）
+	1.试衣软件，技术不够
+  	难以出产品
+  	里程碑难定义
+
+
+	2.猿圈-大数据分析
+
+
+
+	3.外包整合比赛，比赛官网集合，网站定制
+
+	问题：作为参赛者，想要保研加分，获得比赛消息途径单一，不知道如何参加比赛。
+      	      作为比赛方，花费不必要的人力财力维护整个比赛流程。
+
+	stackholders：参赛者，举办方，开发人员，投资者
+
+	问题调查：问卷调查
+
+
+	缺点：设计，缺乏灵活性，对于已经成型的比赛/网站不易取得合作；
+
+	优点：比赛时效性强，周期性强，比赛举办方自己开发一个网站不划算；节省资金，为参赛者提供一个比赛平台；沟通参赛者和比赛方；特色标志另收费；迁移成本低。
+
+	机遇：互联网平台发展迅速，比赛越来越多，参赛选手库，得到猎头公司关注
+
+	挑战：推广较难，同行业的竞争，无法满足客户多样的需求
+		http://www.aijingsai.com/bsfb/
+		http://bisai.172xiaoyuan.com/
+
+	ROI
+
+	4.大数据挖掘，微博，影评挖掘，
+  	twitter 开源api
+
+	缺点 目标不明确，范围小，价值低
+	优点 
+
+
+2.讨论作业（140分钟）
+
+先定义：我们是创业公司，目的是创建一个基于网络的各类竞赛O2O平台
+
+PO访谈：
+
+
+	A：每年会自己投入吗？
+	B，是的，每年逐年递减，逐渐趋于稳定，（￥）。
+
+	A，现在的网站好用吗？
+	B，不太好用，。。。。。
+
+	A：你的网站主要功能？
+	B：发布信息，选手登陆注册，提交比赛进度，结题项目，比赛公告，管理员管理
+
+	A：你们有哪些类型比赛？
+	B：一个比赛，不同组别
+
+	A：你觉得现在的网站什么缺点
+	B：扩展性低，不灵活
+
+	A：如果有一个平台，你会用吗？
+	B：会
+
+	A：你希望那个平台有什么要求
+	B：知名度高，对历年比赛有记录，适应每年变化。
+
+	A：对参赛选手什么要求
+	B：都是在校大学生，具体没有要求
+
+Product Vision/Goal：
+	product name:
+		iRace
+  	product description(a sentence, subheadline of the product name)
+		Race Manager
+  	main users
+		竞赛举办方以及参赛人员
+  	realease schedule(dates,regularity,scope)
+		1.0 纯信息发布，可以浏览比赛信息
+		2.0 学生都可以进行登陆注册,固定形式的赛事主办方业务
+		3.0 主办方定制业务
+		4.0 漏洞修补
+  	competitors(and how we can be better)
+		增强网站灵活性，可定制性，增加更多模块，
+  	similar products to get more ideas from
+		各大赛事信息发布网站
+		http://www.aijingsai.com/bsfb/
+		http://bisai.172xiaoyuan.com/
+  	sources of the revenue and when the PO actually is going to start getting income
+		广告发布费，通过参赛数据与招聘企业建立合作伙伴关系，
+
+
+Roadmap：
+
+	1.0 纯信息发布，可以浏览比赛信息			2
+	2.0 参赛者都可以进行登陆注册,固定形式的赛事主办方业务	4
+	3.0 主办方定制业务					3
+	4.0 漏洞修补						2
+
+UserStory：未完成
+
+Product backlog：未完成
+
+
+3.分配任务（10分钟）
+	先定义：我们是创业公司，目的是创建一个基于网络的各类竞赛O2O平台
+	多个product backlog条目组合成一个Sprint Backlog条目，一个Sprint相当于一个Roadmap里的一次realse
+
+
+	姚  杰：ProductBacklog
+	要求: RoductBacklog填入敏捷表中，优先级一栏以H（high）M（middle）L（low）标志。
+	周日中午前完成交付给李鹏翔。
+
+	李鹏翔：SprintPlan, SprintBacklog
+	要求：填写完成敏捷表中SprintPlan，写出第一个Sprint并填写入敏捷表中即可。
+	下周一前完成。
+
+	刘  嵩：DoR/DoD （算两次作业）
+	要求：按下图格式（最好网上能找到模板）
+	下周四前完成，以Excel方式提交。
+		 
+	王俊猛：Checklist，格式参照上图DoD，以Excel表格提交（算两次作业）
+	下周四答辩之前提交就可以
+		 
+
+	董勇腾：RoadMap，KPI，ProductVision
+
+--------------------------------
+
+会议结果：
+
+确定最终项目成功
+讨论小组作业大部分完成
+分配任务完成
+
+会议完成度：
+大约90%
