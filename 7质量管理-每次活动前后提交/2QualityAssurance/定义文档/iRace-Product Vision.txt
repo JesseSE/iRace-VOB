@@ -1,0 +1,20 @@
+Product Vision/Goal：
+	product name:
+		iRace
+  	product description(a sentence, subheadline of the product name)
+		电竞管家
+  	main users
+		竞赛举办方以及参赛人员
+  	realease schedule(dates,regularity,scope)
+		1.0 纯信息发布，可以浏览比赛信息
+		2.0 学生都可以进行登陆注册,固定形式的赛事主办方业务
+		3.0 主办方定制业务
+		4.0 漏洞修补
+  	competitors(and how we can be better)
+		http://www.aijingsai.com/bsfb/
+		http://bisai.172xiaoyuan.com/
+		增强网站灵活性，可定制性，增加更多业务模块，业务流程集中
+  	similar products to get more ideas from
+		电商网站，各大赛事信息发布网站
+  	sources of the revenue and when the PO actually is going to start getting income
+		广告发布费，通过参赛数据与招聘企业建立合作伙伴关系，
